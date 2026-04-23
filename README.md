@@ -22,7 +22,7 @@ The notebook includes:
 
 ## Dataset
 
-This project uses the **Ultrasound Fetus Dataset** from Mendeley: [https://data.mendeley.com/datasets/yrzzw9m6kk/2](https://data.mendeley.com/datasets/yrzzw9m6kk/2).
+This project uses the **Ultrasound Fetus Dataset** (Anitha, A (2026)) from Mendeley: [https://data.mendeley.com/datasets/yrzzw9m6kk/2](https://data.mendeley.com/datasets/yrzzw9m6kk/2).
 
 Source dataset classes include:
 
@@ -236,3 +236,7 @@ Based on the current notebook experiments, the most promising improvements are:
 ## Disclaimer
 
 This repository is for research and educational use. It is **not** a clinical decision support system and should not be used for medical diagnosis.
+
+## References
+
+Anitha, A (2026), “Ultrasound Fetus Dataset”, Mendeley Data, V2, doi: 10.17632/yrzzw9m6kk.2
